@@ -1,2 +1,2 @@
 # PowerPack
-powerPack is hosting control panel for windows 
+PowerPack is hosting control panel for windows 
